@@ -1,0 +1,10 @@
+C:\Users\123\source\repos\Камък, Ножица, Хартия\Камък, Ножица, Хартия\obj\Debug\Камък, Ножица, Хартия.csprojAssemblyReference.cache
+C:\Users\123\source\repos\Камък, Ножица, Хартия\Камък, Ножица, Хартия\obj\Debug\Камък__Ножица__Хартия.КамъкНожицаХартия.resources
+C:\Users\123\source\repos\Камък, Ножица, Хартия\Камък, Ножица, Хартия\obj\Debug\Камък__Ножица__Хартия.Properties.Resources.resources
+C:\Users\123\source\repos\Камък, Ножица, Хартия\Камък, Ножица, Хартия\obj\Debug\Камък, Ножица, Хартия.csproj.GenerateResource.cache
+C:\Users\123\source\repos\Камък, Ножица, Хартия\Камък, Ножица, Хартия\obj\Debug\Камък, Ножица, Хартия.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\Камък, Ножица, Хартия\Камък, Ножица, Хартия\bin\Debug\Камък, Ножица, Хартия.exe.config
+C:\Users\123\source\repos\Камък, Ножица, Хартия\Камък, Ножица, Хартия\bin\Debug\Камък, Ножица, Хартия.exe
+C:\Users\123\source\repos\Камък, Ножица, Хартия\Камък, Ножица, Хартия\bin\Debug\Камък, Ножица, Хартия.pdb
+C:\Users\123\source\repos\Камък, Ножица, Хартия\Камък, Ножица, Хартия\obj\Debug\Камък, Ножица, Хартия.exe
+C:\Users\123\source\repos\Камък, Ножица, Хартия\Камък, Ножица, Хартия\obj\Debug\Камък, Ножица, Хартия.pdb
